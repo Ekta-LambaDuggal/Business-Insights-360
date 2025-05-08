@@ -20,8 +20,7 @@ Business Insights 360 is an advanced Power BI solution that provides deep insigh
 
 # Live Dashboard
 
-[Explore the live Power BI Dashboard:](https://app.powerbi.com/groups/f3405dbd-5d53-4b3d-9044-cde786274211/reports/08fbbb4d-c05f-4366-9e40-174db2fc0156/89e0bf1ca0ead36c3ac2?experience=power-bi)
-
+[Explore the live Power BI Dashboard:](https://app.powerbi.com/groups/f3405dbd-5d53-4b3d-9044-cde786274211/reports/d283702f-dc88-4f62-8da0-5f44578d3af5/a4e9ac6277646472495f?experience=power-bi)
  # Key Achievements
  
 *Customization – Tailored for AtliQ Hardware’s business needs.
